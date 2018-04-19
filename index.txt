@@ -9,4 +9,4 @@ wechat update txt
 
 projectName :demo01
 
-no password
+no password asd
